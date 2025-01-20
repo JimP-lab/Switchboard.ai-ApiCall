@@ -1,7 +1,7 @@
 # Switchboard.ai-ApiCall
-Here you can find the API call of switchboard.ai running through Postman call by watching this video:
+Here you can find the API call of switchboard.ai running through Postman and creating image template for social media by watching this two videos:
 
-[Watch the video on YouTube](https://youtu.be/mxVGxCaEu6k?si=gkGlIZfOzKtSeDi1)
+https://youtu.be/mxVGxCaEu6k?si=gkGlIZfOzKtSeDi1
 
 https://youtu.be/1dwn6ZKtoJc
 
