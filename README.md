@@ -1,6 +1,7 @@
+
 # Switchboard.ai-ApiCall
 Here you can find the API call of switchboard.ai running through Postman call by watching this video:
 
 <video width="600" controls>
-  <source src="https:AwesomeScreenshot-7_1_2025,2_03_10μ.μ..webm" type="video/webm">
+  <source src="https://github.com/JimP-lab/Switchboard.ai-ApiCall/raw/main/AwesomeScreenshot-7_1_2025%2C2_03_10%CE%BC.%CE%BC..webm" type="video/webm">
 </video>
